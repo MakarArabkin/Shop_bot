@@ -1,0 +1,25 @@
+{
+  "Sneakers": [
+    {
+    "Price": 3200,
+    "Name":"Nike Air Max 90 LTR",
+    "Size": [31,32,33,34,35],
+    "Picture": "https://avatars.mds.yandex.net/get-mpic/5163819/img_id5439007743740724622.png/orig",
+    "ID": 30
+    },
+    {
+    "Price": 3700,
+    "Name":"Nike Air Force 1 '07 White/White",
+    "Size": [31,32,33,34,35],
+    "Picture": "https://avatars.mds.yandex.net/get-mpic/5255532/img_id9183147280140580183.jpeg/orig",
+    "ID": 40
+    },
+    {
+    "Price": 3499,
+    "Name":"Nike Air Max Fusion",
+    "Size": [31,32,33,34,37],
+    "Picture": "https://avatars.mds.yandex.net/get-mpic/7471903/img_id2143052391725150714.jpeg/orig",
+    "ID": 50
+    }
+  ]
+}
