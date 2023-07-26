@@ -15,7 +15,7 @@ from states import *
 
 
 
-TOKEN = "6152242110:AAHbkQ_-UNdqbcC7M9OZWhf10K9l4c9ouEI"
+TOKEN = ""
 bot = Bot(token=TOKEN, parse_mode='HTML')
 dp = Dispatcher(bot, storage=MemoryStorage())
 db = DBConnection()
